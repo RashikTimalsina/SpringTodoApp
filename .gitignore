@@ -1,0 +1,112 @@
+### Data ###
+data/
+
+### HELP ###
+HELP.md
+
+### Build ###
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+build/
+out/
+bin/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+### Maven ###
+.mvn/
+mvnw
+mvnw.cmd
+!.mvn/wrapper/maven-wrapper.jar
+
+### IDE ###
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.settings/
+*.launch
+
+### Logs ###
+logs/
+*.log
+*.log.*
+log/
+tmp/
+
+### Environment ###
+*.env
+.env.*
+.env.local
+.env.development
+.env.test
+.env.production
+*.properties
+*.yml
+*.yaml
+config/application-*.yml
+
+### Database ###
+*.db
+*.sql
+*.h2.db
+*.mv.db
+
+### System ###
+.DS_Store
+Thumbs.db
+
+### Test ###
+/reports/
+/test-output/
+
+### MacOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk

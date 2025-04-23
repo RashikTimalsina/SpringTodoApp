@@ -1,0 +1,6 @@
+{
+  "title": "Todo Sample JSON",
+    "description": "This is a sample JSON file for a Todo application.",
+      "completed": true,
+        "dueDate": "2024-01-21T09:30:00Z"
+}
