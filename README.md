@@ -30,6 +30,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Project Screenshots](#project-screenshots)
 - [Tech Stack](#tech-stack)
 - [Setup Instructions](#setup-instructions)
 - [API Testing](#api-testing)
